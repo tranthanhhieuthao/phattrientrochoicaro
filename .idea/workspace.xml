@@ -12,7 +12,6 @@
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/[Bài tập] Game đơn giản - di chuyển đối tượng.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/[Bài tập] Game đơn giản - di chuyển đối tượng.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Phát triển game lái xe/[Bài tập] Phát triển game lái xe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carogame.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/[Bài tập] Xây dựng lớp mô tả Temperature.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/modules.xml" afterDir="false" />
@@ -107,8 +106,7 @@
       <change beforePath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[Bài tập] Phát triển trò chơi cờ ca-ro.html" beforeDir="false" afterPath="$PROJECT_DIR$/[Bài tập] Phát triển trò chơi cờ ca-ro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carogame.js" beforeDir="false" afterPath="$PROJECT_DIR$/carogame.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/Chuyển đổi nhiệt độ.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/Chuyển đổi nhiệt độ.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.js" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.js" afterDir="false" />
@@ -145,11 +143,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[Bài tập] Phát triển trò chơi cờ ca-ro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="399" column="86" selection-start-line="399" selection-start-column="86" selection-end-line="399" selection-end-column="86" />
+            <state relative-caret-position="168">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="e#117#229#0" expanded="true" />
                 <element signature="e#262#374#0" expanded="true" />
@@ -524,6 +522,7 @@
                 <element signature="e#50627#50740#0" expanded="true" />
                 <element signature="e#50764#50877#0" expanded="true" />
                 <element signature="e#50901#51014#0" expanded="true" />
+                <element signature="e#51038#51151#0" expanded="true" />
                 <element signature="e#51175#51288#0" expanded="true" />
                 <element signature="e#51312#51425#0" expanded="true" />
                 <element signature="e#51449#51562#0" expanded="true" />
@@ -555,9 +554,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/carogame.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="105" lean-forward="true" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="105" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -576,8 +579,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/carogame.js" />
         <option value="$PROJECT_DIR$/[Bài tập] Phát triển trò chơi cờ ca-ro.html" />
+        <option value="$PROJECT_DIR$/carogame.js" />
       </list>
     </option>
   </component>
@@ -619,6 +622,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -645,12 +649,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558196503638</updated>
-      <workItem from="1558196505908" duration="4137000" />
+      <workItem from="1558196505908" duration="4478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4137000" />
+    <option name="totallyTimeSpent" value="4478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -679,13 +683,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/carogame.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/[Bài tập] Phát triển trò chơi cờ ca-ro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="399" column="86" selection-start-line="399" selection-start-column="86" selection-end-line="399" selection-end-column="86" />
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="e#117#229#0" expanded="true" />
             <element signature="e#262#374#0" expanded="true" />
@@ -1060,6 +1061,7 @@
             <element signature="e#50627#50740#0" expanded="true" />
             <element signature="e#50764#50877#0" expanded="true" />
             <element signature="e#50901#51014#0" expanded="true" />
+            <element signature="e#51038#51151#0" expanded="true" />
             <element signature="e#51175#51288#0" expanded="true" />
             <element signature="e#51312#51425#0" expanded="true" />
             <element signature="e#51449#51562#0" expanded="true" />
@@ -1087,6 +1089,13 @@
             <element signature="e#54453#54566#0" expanded="true" />
             <element signature="e#54590#54703#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carogame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="105" lean-forward="true" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="105" />
         </state>
       </provider>
     </entry>
